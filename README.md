@@ -1,1 +1,1 @@
-multiprojectsetup-project1
+multiprojectsetup
